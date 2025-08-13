@@ -1,0 +1,115 @@
+.overaly {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.confirmed-order {
+  width: 450px;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 25px;
+}
+.order-confirmed {
+  margin-bottom: 0;
+  color: var(--Rose-900);
+}
+.enjoy {
+  margin: 10px 0;
+  color: var(--Rose-500);
+  font-weight: 400;
+}
+.bill {
+  background-color: var(--Rose-50);
+  padding: 15px 25px 10px 25px;
+}
+.foods {
+  width: 100%;
+  min-height: 200px;
+  max-height: calc(80px * 4);
+  overflow: scroll;
+}
+.new-order {
+  color: var(--Rose-50);
+  background-color: var(--Red);
+  border-radius: 25px;
+  padding: 10px 0;
+  text-align: center;
+  border: none;
+  font-weight: 500;
+  cursor: pointer;
+  margin-top: 15px;
+}
+.new-order:hover {
+  filter: brightness(85%);
+}
+.food-container {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+.food-details {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.food-image-container {
+  height: 58px;
+  width: 58px;
+  border-radius: 5px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.food-image-container img {
+  height: 100%;
+  width: 100%;
+}
+.ordered-food {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.ordered-food p {
+  margin: 0;
+  font-weight: 500;
+}
+.food-name {
+  color: var(--Rose-900);
+  font-weight: 500;
+  white-space: nowrap; /* Prevents text from wrapping to a new line */
+  overflow: hidden; /* Hides the overflow text */
+  text-overflow: ellipsis; /* Displays "..." at the end of the visible text */
+}
+.food-quantity {
+  display: flex;
+  gap: 20px;
+}
+.food-price {
+  color: var(--Rose-900);
+  font-weight: 500;
+}
+@media (max-width: 450px) {
+  .confirmed-order {
+    width: 100%;
+  }
+  .food-name {
+    max-width: 150px;
+  }
+}
+@media (max-width: 375px) {
+  .food-name {
+    max-width: 100px;
+  }
+}
