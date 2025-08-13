@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap");
+:root {
+  --Orange: hsl(25, 97%, 53%);
+  --White: hsl(0, 0%, 100%);
+  --Light-Grey: hsl(217, 12%, 63%);
+  --Dark-Blue: hsl(213, 19%, 18%);
+  --Very-Dark-Blue: hsl(216, 12%, 8%);
+  --container-color: hsl(215.29, 20.99%, 15.88%);
+  --maxFontWidth: 700;
+  --minFontWidth: 400;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Overpass";
+}
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--Very-Dark-Blue);
+}
+p {
+  color: var(--Light-Grey);
+  font-size: 15px;
+  line-height: 25px;
+}
+.container {
+  background-color: var(--container-color);
+  border-radius: 30px;
+  padding: 30px 30px;
+  width: 400px;
+}
+.main-content {
+  width: 100%;
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  flex-direction: column;
+}
+.star-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 21px 20px;
+  border-radius: 50%;
+  background-color: var(--Dark-Blue);
+  margin-bottom: 40px;
+}
+h1 {
+  color: var(--White);
+  font-weight: var(--maxFontWidth);
+  margin-bottom: 15px;
+}
+ul {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(50px, 1fr)
+  ); /* Adjust minmax values as needed */
+  gap: 10px; /* Adjust the gap value as needed */
+  list-style: none;
+  margin: 25px 0;
+  justify-items: center;
+}
+li {
+  display: flex;
+  justify-content: center; /* Centers the button within the li */
+}
+.rate {
+  border: none;
+  background-color: var(--Dark-Blue);
+  color: var(--Light-Grey);
+  height: 50px;
+  border-radius: 50%;
+  aspect-ratio: 1/1;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  width: 100%; /* Ensures button takes full width of li */
+  font-weight: var(--maxFontWidth);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.rate:hover {
+  background-color: var(--White);
+  color: var(--container-color);
+}
+.rate.active {
+  background-color: var(--Orange);
+  color: var(--container-color);
+}
+.submit {
+  width: 100%;
+  text-align: center;
+  color: var(--Very-Dark-Blue);
+  border: none;
+  background-color: var(--Orange);
+  border-radius: 30px;
+  padding: 15px 0;
+  font-weight: var(--maxFontWidth);
+  letter-spacing: 2px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.submit:hover {
+  background-color: var(--White);
+}
+.thank-you {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+    padding: 15px 0;
+}
+.svg-container{
+    margin-bottom: 25px;
+}
+.selected {
+  background-color: var(--Dark-Blue);
+  color: var(--Orange);
+  text-align: center;
+  padding: 10px 25px;
+  border-radius: 30px;
+  font-weight: 500;
+  opacity: 0.7;
+  margin-bottom: 40px;
+}
+.thank-you-description{
+    text-align: center;
+    
+}
+@media (max-width: 400px) {
+  .container {
+    width: 90%;
+  }
+}
