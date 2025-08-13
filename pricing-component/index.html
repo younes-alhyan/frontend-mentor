@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pricing</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div class="pattern">
+      <svg
+        class="background"
+        xmlns="http://www.w3.org/2000/svg"
+        width="1440"
+        height="449"
+      >
+        <path
+          fill="#F1F5FE"
+          fill-rule="evenodd"
+          d="M0 0h1440v449H191.5C85.737 449 0 363.263 0 257.5V0z"
+        />
+      </svg>
+      <svg
+        class="circle"
+        xmlns="http://www.w3.org/2000/svg"
+        width="146"
+        height="145"
+      >
+        <g fill="none" fill-rule="evenodd" stroke="#CFD8EF">
+          <circle cx="63" cy="82" r="62.5" />
+          <circle cx="105" cy="41" r="40.5" />
+        </g>
+      </svg>
+    </div>
+    <main class="container">
+      <h1 class="header">Simple, traffic-based pricing</h1>
+      <p class="header-paragraph">
+        Sign-up for our 30-day trial. No credit card required.
+      </p>
+      <div class="main-content">
+        <div class="top">
+          <div class="first-row">
+            <p class="views" id="views">100K PAGEVIEWS</p>
+            <span class="per-month">
+              <h1 class="price" id="price">$16.00</h1>
+              <p>/ month</p>
+            </span>
+          </div>
+          <input type="range" name="slider" id="slider" min="1" max="60" />
+          <span class="per-month-mobile">
+            <h1 class="price" id="price-mobile">$16.00</h1>
+            <p>/ month</p>
+          </span>
+          <div class="last-row">
+            <p>Monthly Billing</p>
+
+            <input type="checkbox" id="checkbox" />
+            <label class="toggle" for="checkbox">
+              <div class="toggle-button"></div>
+            </label>
+
+            <p>Yearly Billing</p>
+            <span class="discount" id="discount">25% discount</span>
+          </div>
+        </div>
+        <div class="buttom">
+          <ul class="offers">
+            <li>
+              <span>
+                <svg xmlns="http://www.w3.org/2000/svg" width="9" height="8">
+                  <path
+                    fill="none"
+                    stroke="#10D8C4"
+                    stroke-width="2"
+                    d="M1 4.134l1.907 1.908L7.949 1"
+                  />
+                </svg>
+              </span>
+              Unlimeted websites
+            </li>
+            <li>
+              <span
+                ><svg xmlns="http://www.w3.org/2000/svg" width="9" height="8">
+                  <path
+                    fill="none"
+                    stroke="#10D8C4"
+                    stroke-width="2"
+                    d="M1 4.134l1.907 1.908L7.949 1"
+                  />
+                </svg>
+              </span>
+              100% data ownership
+            </li>
+            <li>
+              <span
+                ><svg xmlns="http://www.w3.org/2000/svg" width="9" height="8">
+                  <path
+                    fill="none"
+                    stroke="#10D8C4"
+                    stroke-width="2"
+                    d="M1 4.134l1.907 1.908L7.949 1"
+                  />
+                </svg>
+              </span>
+              Email reports
+            </li>
+          </ul>
+          <button class="CTA">Start my trial</button>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
