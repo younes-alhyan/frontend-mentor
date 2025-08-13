@@ -1,0 +1,265 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Karla";
+}
+
+:root {
+  --backgroundColor: hsl(148, 38%, 91%);
+  --btnColor: hsl(155, 82%, 27%);
+  --errorStateColor: hsl(0, 66%, 54%);
+  --FormBackgroundColor: hsl(0, 0%, 100%);
+  --bordersColor: hsl(186, 15%, 59%);
+  --ButtonHovoringColor: hsl(170.53, 82.61%, 13.53%);
+  --selectedQueryColor: hsl(144.71, 37.78%, 91.18%);
+}
+
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: var(--backgroundColor);
+}
+
+form {
+  min-width: 50%;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--FormBackgroundColor);
+  padding: 30px 20px;
+  border-radius: 10px;
+}
+
+h1 {
+  align-self: flex-start;
+  font-weight: 700;
+  margin-top: 0;
+}
+
+label {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.full-name {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  width: 100%;
+}
+
+.input-card {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin: 5px;
+  width: 100%;
+  height: 100%;
+}
+.input-card-error input[type="text"],
+.input-card-error textarea {
+  border-color: var(--errorStateColor);
+}
+.input-card-error .error-message {
+  display: block;
+}
+.error-message {
+  display: none;
+  color: var(--errorStateColor);
+}
+input[type="text"],
+input[type="email"] {
+  outline: none;
+  border: none;
+  border: 1px solid var(--bordersColor);
+  border-radius: 5px;
+  height: 35px;
+  margin: 10px 0;
+}
+
+input[type="text"]:hover,
+.query-container:hover,
+#message:hover {
+  cursor: pointer;
+  border-color: var(--btnColor);
+}
+
+.star {
+  color: var(--btnColor);
+}
+
+.types {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Adjust as needed */
+  gap: 10px; /* Adjust as needed */
+  width: 100%;
+}
+
+.query-container {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  padding: 15px 10px;
+  border: 1px solid var(--bordersColor);
+  border-radius: 5px;
+}
+
+.query-container input[type="radio"] {
+  display: none;
+}
+
+.custom-radio {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid var(--bordersColor);
+  background-color: white;
+  position: relative;
+  margin-right: 10px;
+}
+
+.svg-icon {
+  display: none;
+  width: 20px;
+  height: 20px;
+}
+input[type="radio"]:checked + .custom-radio .svg-icon {
+  display: block;
+}
+input[type="radio"]:checked + .custom-radio {
+  border: none;
+}
+.query-container.active {
+  background-color: var(--selectedQueryColor);
+}
+.query-container.active .custom-radio {
+  background-color: var(--selectedQueryColor);
+}
+#message {
+  resize: none;
+  width: 100%;
+  outline: none;
+  border: none;
+  border: 1px solid var(--bordersColor);
+  border-radius: 5px;
+}
+.contacted {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+.contacted input[type="checkbox"] {
+  display: none;
+}
+.custom-checkbox {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--bordersColor);
+  background-color: white;
+  margin-right: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+.checkbox-icon {
+  display: none;
+  width: 20px;
+  height: 20px;
+}
+
+.contacted input[type="checkbox"]:checked + .custom-checkbox .checkbox-icon {
+  display: block;
+}
+
+.contacted input[type="checkbox"]:checked + .custom-checkbox {
+  border: none;
+}
+
+.submit {
+  border: none;
+  width: 100%;
+  color: white;
+  background-color: var(--btnColor);
+  border-radius: 5px;
+  font-weight: 700;
+  padding: 15px 0;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.submit:hover {
+  background-color: var(--ButtonHovoringColor);
+}
+
+.valid-message {
+  width: 450px;
+  align-self: flex-start;
+  position: absolute;
+  background-color: var(--ButtonHovoringColor);
+  border-radius: 10px;
+  padding: 20px 15px;
+  margin-top: 10px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 1s ease-in-out, visibility 1s ease-in-out;
+}
+
+.valid-message.show {
+  opacity: 1;
+  visibility: visible;
+  animation: slide-in 1s forwards;
+}
+
+@keyframes slide-in {
+  0% {
+    transform: translateY(-150%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.valid-message.hide {
+  opacity: 0;
+  visibility: hidden;
+  animation: slide-out 2s forwards;
+}
+
+@keyframes slide-out {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-150%);
+    opacity: 0;
+  }
+}
+
+.top {
+  display: flex;
+  align-items: center;
+}
+
+.top h4,
+.valid-message p {
+  color: white;
+  margin: 5px;
+}
+@media (max-width: 450px) {
+  .full-name {
+    flex-direction: column;
+  }
+  .types {
+    grid-template-columns: 1fr;
+  }
+  .valid-message {
+    width: 90%;
+  }
+}
