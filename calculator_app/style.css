@@ -1,0 +1,221 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap");
+
+:root {
+  /* Backgrounds */
+  --main-bg: hsl(222, 26%, 31%);
+  --toggle-keypad-bg: hsl(223, 31%, 20%);
+  --screen-bg: hsl(224, 36%, 15%);
+
+  /* Keys */
+  --key1-bg: hsl(225, 21%, 49%);
+  --key1-shadow: hsl(224, 28%, 35%);
+
+  --key2-bg: hsl(6, 63%, 50%);
+  --key2-shadow: hsl(6, 70%, 34%);
+
+  --key3-bg: hsl(30, 25%, 89%);
+  --key3-shadow: hsl(28, 16%, 65%);
+
+  /* Text */
+  --buttons-text-color:hsl(221, 14%, 31%);
+  --sub-buttons-text-color: hsl(0, 0%, 100%);
+  --equal-button-color:hsl(0,0%,100%);
+  --text-color: hsl(0, 0%, 100%);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "League Spartan", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+body.theme2{
+  /* Backgrounds */
+  --main-bg: hsl(0, 0%, 90%);
+  --toggle-keypad-bg: hsl(0, 5%, 81%);
+  --screen-bg: hsl(0, 0%, 93%);
+
+  /* Keys */
+  --key1-bg: hsl(185, 42%, 37%);
+  --key1-shadow: hsl(185, 58%, 25%);
+
+  --key2-bg: hsl(25, 98%, 40%);
+  --key2-shadow: hsl(25, 99%, 27%);
+
+  --key3-bg: hsl(45, 7%, 89%);
+  --key3-shadow: hsl(35, 11%, 61%);
+
+  /* Text */
+  --buttons-text-color:hsl(60, 10%, 19%);
+  --sub-buttons-text-color: hsl(0, 0%, 100%);
+  --equal-button-color:hsl(0,0%,100%);
+  --text-color: hsl(60, 10%, 19%);    
+}
+body.theme3{
+    /* Backgrounds */
+    --main-bg: hsl(268, 75%, 9%);
+    --toggle-keypad-bg: hsl(268, 71%, 12%);
+    --screen-bg: hsl(268, 71%, 12%);
+  
+    /* Keys */
+    --key1-bg: hsl(281, 89%, 26%);
+    --key1-shadow: hsl(285, 91%, 52%);
+  
+    --key2-bg: hsl(176, 100%, 44%);
+    --key2-shadow: hsl(177, 92%, 70%);
+  
+    --key3-bg: hsl(268, 47%, 21%);
+    --key3-shadow: hsl(290, 70%, 36%);
+  
+    /* Text */
+    --buttons-text-color:hsl(52, 100%, 62%);
+    --sub-buttons-text-color: hsl(0, 0%, 100%);
+    --equal-button-color:hsl(198, 20%, 13%);
+    --text-color: hsl(52, 100%, 62%);    
+  }
+body {
+    margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--main-bg);
+}
+.container {
+  width: 475px;
+  display: flex;
+  flex-direction: column;
+}
+.first-row {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+}
+.themes-container {
+  display: flex;
+  align-items: end;
+  gap: 25px;
+}
+.themes-title {
+  margin: 5px 0;
+  color: var(--text-color);
+  font-size: 12px;
+  font-weight: 700;
+}
+.title {
+  color: var(--text-color);
+  margin: 5px 0;
+}
+.toggle-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.labels {
+  display: flex;
+  justify-content: space-between;
+  width: 90px;
+  color: var(--text-color);
+}
+.labels > span {
+  font-size: 16px;
+}
+.toggle {
+  width: 90px;
+  height: 30px;
+  background-color: var(--toggle-keypad-bg);
+  border-radius: 15px;
+  position: relative;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+
+.toggle::before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  background-color: var(--key2-bg);
+  border-radius: 50%;
+  position: absolute;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* State 1 */
+.toggle[data-state="1"]::before {
+  transform: translateX(0);
+}
+
+/* State 2 */
+.toggle[data-state="2"]::before {
+  transform: translateX(30px);
+}
+
+/* State 3 */
+.toggle[data-state="3"]::before {
+  transform: translateX(60px);
+}
+
+.result-container {
+  width: 100%;
+  height: 100px;
+  background-color: var(--screen-bg);
+  border-radius: 10px;
+  margin: 25px 0;
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  padding: 15px;
+}
+
+.buttons-container {
+  padding: 15px 20px;
+  background-color: var(--toggle-keypad-bg);
+  border-radius: 10px;
+  display: grid;
+  grid-template-rows: repeat(5, 1fr); /* 5 rows */
+  grid-template-columns: repeat(4, 1fr); /* 4 columns */
+  gap: 15px; /* Space between grid items */
+}
+
+.button {
+  background-color: var(--key3-bg);
+  text-align: center;
+  padding: 15px 20px;
+  border-radius: 10px;
+  color: var(--buttons-text-color);
+  outline: none;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0px 4px 1px var(--key3-shadow);
+}
+button:hover,.toggle:hover::before{
+    filter: brightness(1.5);
+}
+#del,
+#reset {
+  background-color: var(--key1-bg);
+  color: var(--sub-buttons-text-color);
+  box-shadow: 0px 4px 1px var(--key1-shadow);
+
+}
+#equal {
+  grid-column: span 2;
+  background-color: var(--key2-bg);
+  color: var(--equal-button-color);
+  box-shadow: 0px 4px 1px var(--key2-shadow);
+
+}
+#reset {
+  grid-column: span 2;
+}
+@media (max-width: 475px) {
+  .container {
+    width: 100%;
+  }
+}
