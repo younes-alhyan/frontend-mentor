@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "advice-generator",
+    "Challenge": "https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db",
+    "Solution": "https://www.frontendmentor.io/solutions/advices-generetor-app-using-apiadvices-slip-api-coEV1YQg1C",
+    "Source": "https://github.com/younes-alhyan/advice-generator",
+    "Demo": "https://younes-alhyan.github.io/advice-generator",
+    "Difficulty": 2,
+    "Description": "The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to generate random quotes of advice.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1645105188/Challenges/sfl8uqvq75wnnr559ksp.jpg"
+  },
+  {
+    "Name": "blog-preview-card",
+    "Challenge": "https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS",
+    "Solution": "https://www.frontendmentor.io/solutions/blog-preview-card-oJIayWFJAz",
+    "Source": "https://github.com/younes-alhyan/blog-preview-card",
+    "Demo": "https://younes-alhyan.github.io/blog-preview-card",
+    "Difficulty": 1,
+    "Description": "This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1703155602/Challenges/cmab9xsatnq8m04w5ikl.jpg"
+  },
+  {
+    "Name": "calculator-app",
+    "Challenge": "https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29",
+    "Solution": "https://www.frontendmentor.io/solutions/calculator-app-aAk8X6yKv3",
+    "Source": "https://github.com/younes-alhyan/calculator-app",
+    "Demo": "https://younes-alhyan.github.io/calculator-app",
+    "Difficulty": 3,
+    "Description": "This calculator app will be a great test of your CSS and JS skills especially. If you're wanting to practice using Grid, this challenge will be perfect for you!",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1652199546/Challenges/zjx3vvssz4f9zxr2djai.jpg"
+  },
+  {
+    "Name": "countries-app",
+    "Challenge": "https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca",
+    "Solution": "https://www.frontendmentor.io/solutions/countries-app-T-xnbheQlz",
+    "Source": "https://github.com/younes-alhyan/countries-app",
+    "Demo": "https://younes-alhyan.github.io/countries-app",
+    "Difficulty": 4,
+    "Description": "If you're wanting to test your JavaScript skills this is the challenge for you. Use whichever JS framework you prefer and pull data from the REST Countries API.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554826345/Challenges/yhq5ihanseyinzwblaw1.jpg"
+  },
+  {
+    "Name": "desserts-store",
+    "Challenge": "https://www.frontendmentor.io/challenges/desserts-store",
+    "Solution": "https://www.frontendmentor.io/solutions/desserts-store-using-react-SAhKHG9HGE",
+    "Source": "https://github.com/younes-alhyan/desserts-store",
+    "Demo": "https://younes-alhyan.github.io/desserts-store",
+    "Difficulty": 2,
+    "Description": "A React project to practice building a small desserts store interface.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1720604598/Challenges/icnpqquxdp6kgnzm0vyp.jpg"
+  },
+  {
+    "Name": "e-commerce-product-page",
+    "Challenge": "https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6",
+    "Solution": "https://www.frontendmentor.io/solutions/e-commerce-product-page-using-react-Sg5wu_xigP",
+    "Source": "https://github.com/younes-alhyan/e-commerce-product-page",
+    "Demo": "https://younes-alhyan.github.io/e-commerce-product-page",
+    "Difficulty": 3,
+    "Description": "In this challenge, you'll build a beautiful product page. We'll be putting your JS skills to the test with a lightbox product gallery and cart functionality!",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1715958959/Challenges/nnhmflkuam4gr1dnnddf.jpg"
+  },
+  {
+    "Name": "expenses-chart-component",
+    "Challenge": "https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt",
+    "Solution": "https://www.frontendmentor.io/solutions/expenses-chart-component-6sWno5Y9SX",
+    "Source": "https://github.com/younes-alhyan/expenses-chart-component",
+    "Demo": "https://younes-alhyan.github.io/expenses-chart-component",
+    "Difficulty": 2,
+    "Description": "In this challenge, you'll create a bar chart component from scratch. You can use a local JSON file to add the chart data dynamically.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1653056100/Challenges/xhxtaym7uzypzb37rpcc.jpg"
+  },
+  {
+    "Name": "pricing-component",
+    "Challenge": "https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8",
+    "Solution": "https://www.frontendmentor.io/solutions/simple-pricing-component-fNhndcXm8D",
+    "Source": "https://github.com/younes-alhyan/pricing-component",
+    "Demo": "https://younes-alhyan.github.io/pricing-component",
+    "Difficulty": 2,
+    "Description": "This challenge will get you thinking about building an accessible custom toggle control and also test your layout skills.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1611325428/Challenges/fp0qtspesm6i0miyqncg.jpg"
+  },
+  {
+    "Name": "pricing-page",
+    "Challenge": "https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC",
+    "Solution": "https://www.frontendmentor.io/solutions/pricing-page-Zq9sKVPkVK",
+    "Source": "https://github.com/younes-alhyan/pricing-page",
+    "Demo": "https://younes-alhyan.github.io/pricing-page",
+    "Difficulty": 2,
+    "Description": "In this project, you'll build out an interactive pricing component complete with custom range input slider and pricing toggle.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1575037683/Challenges/sjsrx7m77v6pxswdm0mx.jpg"
+  },
+  {
+    "Name": "rating-component",
+    "Challenge": "https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI",
+    "Solution": "https://www.frontendmentor.io/solutions/simple-rating-component-iS1yWJCyE0",
+    "Source": "https://github.com/younes-alhyan/rating-component",
+    "Demo": "https://younes-alhyan.github.io/rating-component",
+    "Difficulty": 1,
+    "Description": "This is a small project to practice handling user interactions and updating the DOM.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1715958936/Challenges/h3hhqtj4muiy84kkawhd.jpg"
+  },
+  {
+    "Name": "simple-form",
+    "Challenge": "https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj",
+    "Solution": "https://www.frontendmentor.io/solutions/simple-form-o0c3wZnJ5O",
+    "Source": "https://github.com/younes-alhyan/simple-form",
+    "Demo": "https://younes-alhyan.github.io/simple-form",
+    "Difficulty": 2,
+    "Description": "Building accessible forms is a crucial task for front-end developers. This challenge will help you practice building a form with several input types and validation.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1715865268/Challenges/jntqqksdinxs3qy8uyqb.jpg"
+  },
+  {
+    "Name": "simple-portfolio",
+    "Challenge": "https://www.frontendmentor.io/challenges/simple-portfolio",
+    "Solution": "https://www.frontendmentor.io/solutions/flex-boxfontsicons-LZ1nDjGXrf",
+    "Source": "https://github.com/younes-alhyan/simple-portfolio",
+    "Demo": "https://younes-alhyan.github.io/simple-portfolio",
+    "Difficulty": 2,
+    "Description": "Your personal portfolio project to practice building clean HTML, CSS, and JS layouts.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1705487747/Challenges/cf3rlsqoovxlf7uajpva.jpg"
+  },
+  {
+    "Name": "time-tracking-app",
+    "Challenge": "https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw",
+    "Solution": "https://www.frontendmentor.io/solutions/time-tracking-app-wzGP2yjcQ8",
+    "Source": "https://github.com/younes-alhyan/time-tracking-app",
+    "Demo": "https://younes-alhyan.github.io/time-tracking-app",
+    "Difficulty": 2,
+    "Description": "A perfect opportunity to practice your CSS Grid skills. For anyone wanting to take it up a notch, we provide a JSON data file to practice working with data.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1631270258/Challenges/j1ocp59n25odoftocgpi.jpg"
+  },
+  {
+    "Name": "tip-calculator-app",
+    "Challenge": "https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX",
+    "Solution": "https://www.frontendmentor.io/solutions/tip-calculator-app-2O2npA-ZAQ",
+    "Source": "https://github.com/younes-alhyan/tip-calculator-app",
+    "Demo": "https://younes-alhyan.github.io/tip-calculator-app",
+    "Difficulty": 2,
+    "Description": "This small app is perfect for anyone starting to get to grips with JavaScript. The calculator functionality will be a nice test!",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1625752957/Challenges/hxkpctp6cd1meeytfdl2.jpg"
+  },
+  {
+    "Name": "todo-list-app",
+    "Challenge": "https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW",
+    "Solution": "https://www.frontendmentor.io/solutions/todo-list-app-MDiJpj_4JG",
+    "Source": "https://github.com/younes-alhyan/todo-list-app",
+    "Demo": "https://younes-alhyan.github.io/todo-list-app",
+    "Difficulty": 3,
+    "Description": "The classic todo app with a few twists! This app includes a dark/light theme toggle and drag & drop reordering for anyone wanting an extra test.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1606413905/Challenges/ty4ppudcq94rtgj4rv6p.jpg"
+  }
+]
