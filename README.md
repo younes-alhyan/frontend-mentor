@@ -174,7 +174,7 @@ In this challenge, you'll create a bar chart component from scratch. You can use
 
 **Level:** 2 / 5
 
-### 📁 IP Address Tracker
+### IP Address Tracker 📝
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ld4kxbjoxpqpjenak8w6.jpg)
 
