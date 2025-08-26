@@ -70,6 +70,16 @@
     "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1653056100/Challenges/xhxtaym7uzypzb37rpcc.jpg"
   },
   {
+    "Name": "ip-address-tracker",
+    "Challenge": "https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0",
+    "Solution": "https://www.frontendmentor.io/solutions/ip-address-tracker-PpTXt7luzl",
+    "Source": "https://github.com/younes-alhyan/ip-address-tracker",
+    "Demo": "https://ip-address-tracker-zvai.onrender.com",
+    "Difficulty": 3,
+    "Description": "In this challenge, you'll be using two separate APIs together to create an IP Address Tracking app.",
+    "HeroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ld4kxbjoxpqpjenak8w6.jpg"
+  },
+  {
     "Name": "pricing-component",
     "Challenge": "https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8",
     "Solution": "https://www.frontendmentor.io/solutions/simple-pricing-component-fNhndcXm8D",

@@ -194,7 +194,7 @@ In this challenge, you'll be using two separate APIs together to create an IP Ad
 [GitHub Repository](https://github.com/younes-alhyan/ip-address-tracker/)
 
 #### 🔥 Difficulty
-![JUNIOR](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
+![INTERMEDIATE](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
 
 **Level:** 3 / 5
 
