@@ -85,7 +85,18 @@
     "demo": "https://ip-address-tracker-zvai.onrender.com",
     "difficulty": 3,
     "description": "In this challenge, you'll be using two separate APIs together to create an IP Address Tracking app.",
-    "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/ld4kxbjoxpqpjenak8w6.jpg"
+    "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/ld4kxbjoxpqpjenak8w6.jpg"
+  },
+  {
+    "name": "Multi-Step Form",
+    "repoName": "multi-step-form",
+    "challenge": "https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ",
+    "solution": "https://www.frontendmentor.io/solutions/multistep-form-h5yneup1zc",
+    "source": "https://github.com/younes-alhyan/multi-step-form",
+    "demo": "https://younes-alhyan.github.io/multi-step-form",
+    "difficulty": 4,
+    "description": "An excellent test for your form-building and JS skills, this project will pose many challenges along the way to completion.",
+    "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/vxqbpnpbamodg5ioplbj.jpg"
   },
   {
     "name": "Pricing Component",
