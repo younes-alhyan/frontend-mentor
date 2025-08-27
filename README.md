@@ -5,7 +5,7 @@ This repository serves as an index to all my completed challenges with links to 
 
 ## 📂 Projects
 
-### Advice Generator 📝
+### 📝 Advice Generator
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1645105188/Challenges/sfl8uqvq75wnnr559ksp.jpg)
 
@@ -40,9 +40,17 @@ The perfect project if you're learning how to interact with 3rd-party APIs. This
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+#### 🏅 Level
 
-### Blog Preview Card 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Blog Preview Card
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1703155602/Challenges/cmab9xsatnq8m04w5ikl.jpg)
 
@@ -75,9 +83,17 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 
 ![NEWBIE](https://img.shields.io/badge/Difficulty-NEWBIE-blue)
 
-**Level:** 1 / 5
+#### 🏅 Level
 
-### Calculator App 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Calculator App
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1652199546/Challenges/zjx3vvssz4f9zxr2djai.jpg)
 
@@ -111,9 +127,17 @@ This calculator app will be a great test of your CSS and JS skills especially. I
 
 ![INTERMEDIATE](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
 
-**Level:** 3 / 5
+#### 🏅 Level
 
-### Countries App 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Countries App
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1554826345/Challenges/yhq5ihanseyinzwblaw1.jpg)
 
@@ -148,9 +172,17 @@ If you're wanting to test your JavaScript skills this is the challenge for you. 
 
 ![ADVANCED](https://img.shields.io/badge/Difficulty-ADVANCED-orange)
 
-**Level:** 4 / 5
+#### 🏅 Level
 
-### Desserts Store 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Desserts Store
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1720604598/Challenges/icnpqquxdp6kgnzm0vyp.jpg)
 
@@ -185,9 +217,17 @@ A React project to practice building a small desserts store interface.
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+#### 🏅 Level
 
-### E-Commerce Product Page 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 E-Commerce Product Page
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1715958959/Challenges/nnhmflkuam4gr1dnnddf.jpg)
 
@@ -222,9 +262,17 @@ In this challenge, you'll build a beautiful product page. We'll be putting your 
 
 ![INTERMEDIATE](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
 
-**Level:** 3 / 5
+#### 🏅 Level
 
-### Expenses Chart Component 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Expenses Chart Component
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1653056100/Challenges/xhxtaym7uzypzb37rpcc.jpg)
 
@@ -258,9 +306,17 @@ In this challenge, you'll create a bar chart component from scratch. You can use
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+#### 🏅 Level
 
-### IP Address Tracker 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 IP Address Tracker
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/ld4kxbjoxpqpjenak8w6.jpg)
 
@@ -296,9 +352,17 @@ In this challenge, you'll be using two separate APIs together to create an IP Ad
 
 ![INTERMEDIATE](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
 
-**Level:** 3 / 5
+#### 🏅 Level
 
-### Multi-Step Form 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Multi-Step Form
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/vxqbpnpbamodg5ioplbj.jpg)
 
@@ -333,9 +397,17 @@ An excellent test for your form-building and JS skills, this project will pose m
 
 ![ADVANCED](https://img.shields.io/badge/Difficulty-ADVANCED-orange)
 
-**Level:** 4 / 5
+#### 🏅 Level
 
-### Pricing Component 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Pricing Component
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1611325428/Challenges/fp0qtspesm6i0miyqncg.jpg)
 
@@ -369,9 +441,17 @@ This challenge will get you thinking about building an accessible custom toggle 
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+#### 🏅 Level
 
-### Pricing Page 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Pricing Page
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1575037683/Challenges/sjsrx7m77v6pxswdm0mx.jpg)
 
@@ -405,9 +485,17 @@ In this project, you'll build out an interactive pricing component complete with
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+#### 🏅 Level
 
-### Rating Component 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Rating Component
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1715958936/Challenges/h3hhqtj4muiy84kkawhd.jpg)
 
@@ -441,9 +529,17 @@ This is a small project to practice handling user interactions and updating the 
 
 ![NEWBIE](https://img.shields.io/badge/Difficulty-NEWBIE-blue)
 
-**Level:** 1 / 5
+#### 🏅 Level
 
-### Simple Form 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Simple Form
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1715865268/Challenges/jntqqksdinxs3qy8uyqb.jpg)
 
@@ -477,9 +573,17 @@ Building accessible forms is a crucial task for front-end developers. This chall
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+#### 🏅 Level
 
-### Simple Portfolio 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Simple Portfolio
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1705487747/Challenges/cf3rlsqoovxlf7uajpva.jpg)
 
@@ -512,9 +616,17 @@ Your personal portfolio project to practice building clean HTML, CSS, and JS lay
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+#### 🏅 Level
 
-### Time Tracking App 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Time Tracking App
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1631270258/Challenges/j1ocp59n25odoftocgpi.jpg)
 
@@ -548,9 +660,17 @@ A perfect opportunity to practice your CSS Grid skills. For anyone wanting to ta
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+#### 🏅 Level
 
-### Tip Calculator App 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Tip Calculator App
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1625752957/Challenges/hxkpctp6cd1meeytfdl2.jpg)
 
@@ -584,9 +704,17 @@ This small app is perfect for anyone starting to get to grips with JavaScript. T
 
 ![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
-**Level:** 2 / 5
+#### 🏅 Level
 
-### Todo List App 📝
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Todo List App
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1606413905/Challenges/ty4ppudcq94rtgj4rv6p.jpg)
 
@@ -620,4 +748,13 @@ The classic todo app with a few twists! This app includes a dark/light theme tog
 
 ![INTERMEDIATE](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
 
-**Level:** 3 / 5
+#### 🏅 Level
+
+<span>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=for-the-badge&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
