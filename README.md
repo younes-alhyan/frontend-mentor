@@ -19,7 +19,7 @@ The perfect project if you're learning how to interact with 3rd-party APIs. This
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/advices-generetor-app-using-apiadvices-slip-api-coEV1YQg1C) 
+[Solution Link](https://www.frontendmentor.io/solutions/advices-generetor-app-using-apiadvices-slip-api-coEV1YQg1C)
 
 #### 🚀 Live Demo
 
@@ -28,6 +28,13 @@ The perfect project if you're learning how to interact with 3rd-party APIs. This
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/advice-generator)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🔥 Difficulty
 
@@ -49,7 +56,7 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/blog-preview-card-oJIayWFJAz) 
+[Solution Link](https://www.frontendmentor.io/solutions/blog-preview-card-oJIayWFJAz)
 
 #### 🚀 Live Demo
 
@@ -58,6 +65,11 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/blog-preview-card)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 #### 🔥 Difficulty
 
@@ -79,7 +91,7 @@ This calculator app will be a great test of your CSS and JS skills especially. I
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/calculator-app-aAk8X6yKv3) 
+[Solution Link](https://www.frontendmentor.io/solutions/calculator-app-aAk8X6yKv3)
 
 #### 🚀 Live Demo
 
@@ -88,6 +100,12 @@ This calculator app will be a great test of your CSS and JS skills especially. I
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/calculator-app)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -109,7 +127,7 @@ If you're wanting to test your JavaScript skills this is the challenge for you. 
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/countries-app-T-xnbheQlz) 
+[Solution Link](https://www.frontendmentor.io/solutions/countries-app-T-xnbheQlz)
 
 #### 🚀 Live Demo
 
@@ -118,6 +136,13 @@ If you're wanting to test your JavaScript skills this is the challenge for you. 
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/countries-app)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🔥 Difficulty
 
@@ -139,7 +164,7 @@ A React project to practice building a small desserts store interface.
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/desserts-store-using-react-SAhKHG9HGE) 
+[Solution Link](https://www.frontendmentor.io/solutions/desserts-store-using-react-SAhKHG9HGE)
 
 #### 🚀 Live Demo
 
@@ -148,6 +173,13 @@ A React project to practice building a small desserts store interface.
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/desserts-store)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -169,7 +201,7 @@ In this challenge, you'll build a beautiful product page. We'll be putting your 
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/e-commerce-product-page-using-react-Sg5wu_xigP) 
+[Solution Link](https://www.frontendmentor.io/solutions/e-commerce-product-page-using-react-Sg5wu_xigP)
 
 #### 🚀 Live Demo
 
@@ -178,6 +210,13 @@ In this challenge, you'll build a beautiful product page. We'll be putting your 
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/e-commerce-product-page)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -199,7 +238,7 @@ In this challenge, you'll create a bar chart component from scratch. You can use
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/expenses-chart-component-6sWno5Y9SX) 
+[Solution Link](https://www.frontendmentor.io/solutions/expenses-chart-component-6sWno5Y9SX)
 
 #### 🚀 Live Demo
 
@@ -208,6 +247,12 @@ In this challenge, you'll create a bar chart component from scratch. You can use
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/expenses-chart-component)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -229,7 +274,7 @@ In this challenge, you'll be using two separate APIs together to create an IP Ad
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/ip-address-tracker-PpTXt7luzl) 
+[Solution Link](https://www.frontendmentor.io/solutions/ip-address-tracker-PpTXt7luzl)
 
 #### 🚀 Live Demo
 
@@ -238,6 +283,14 @@ In this challenge, you'll be using two separate APIs together to create an IP Ad
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/ip-address-tracker)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]
 
 #### 🔥 Difficulty
 
@@ -259,7 +312,7 @@ An excellent test for your form-building and JS skills, this project will pose m
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/multistep-form-h5yneup1zc) 
+[Solution Link](https://www.frontendmentor.io/solutions/multistep-form-h5yneup1zc)
 
 #### 🚀 Live Demo
 
@@ -268,6 +321,13 @@ An excellent test for your form-building and JS skills, this project will pose m
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/multi-step-form)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -289,7 +349,7 @@ This challenge will get you thinking about building an accessible custom toggle 
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/simple-pricing-component-fNhndcXm8D) 
+[Solution Link](https://www.frontendmentor.io/solutions/simple-pricing-component-fNhndcXm8D)
 
 #### 🚀 Live Demo
 
@@ -298,6 +358,12 @@ This challenge will get you thinking about building an accessible custom toggle 
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/pricing-component)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -319,7 +385,7 @@ In this project, you'll build out an interactive pricing component complete with
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/pricing-page-Zq9sKVPkVK) 
+[Solution Link](https://www.frontendmentor.io/solutions/pricing-page-Zq9sKVPkVK)
 
 #### 🚀 Live Demo
 
@@ -328,6 +394,12 @@ In this project, you'll build out an interactive pricing component complete with
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/pricing-page)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -349,7 +421,7 @@ This is a small project to practice handling user interactions and updating the 
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/simple-rating-component-iS1yWJCyE0) 
+[Solution Link](https://www.frontendmentor.io/solutions/simple-rating-component-iS1yWJCyE0)
 
 #### 🚀 Live Demo
 
@@ -358,6 +430,12 @@ This is a small project to practice handling user interactions and updating the 
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/rating-component)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -379,7 +457,7 @@ Building accessible forms is a crucial task for front-end developers. This chall
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/simple-form-o0c3wZnJ5O) 
+[Solution Link](https://www.frontendmentor.io/solutions/simple-form-o0c3wZnJ5O)
 
 #### 🚀 Live Demo
 
@@ -388,6 +466,12 @@ Building accessible forms is a crucial task for front-end developers. This chall
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/simple-form)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -409,7 +493,7 @@ Your personal portfolio project to practice building clean HTML, CSS, and JS lay
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/flex-boxfontsicons-LZ1nDjGXrf) 
+[Solution Link](https://www.frontendmentor.io/solutions/flex-boxfontsicons-LZ1nDjGXrf)
 
 #### 🚀 Live Demo
 
@@ -418,6 +502,11 @@ Your personal portfolio project to practice building clean HTML, CSS, and JS lay
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/simple-portfolio)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 #### 🔥 Difficulty
 
@@ -439,7 +528,7 @@ A perfect opportunity to practice your CSS Grid skills. For anyone wanting to ta
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/time-tracking-app-wzGP2yjcQ8) 
+[Solution Link](https://www.frontendmentor.io/solutions/time-tracking-app-wzGP2yjcQ8)
 
 #### 🚀 Live Demo
 
@@ -448,6 +537,12 @@ A perfect opportunity to practice your CSS Grid skills. For anyone wanting to ta
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/time-tracking-app)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -469,7 +564,7 @@ This small app is perfect for anyone starting to get to grips with JavaScript. T
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/tip-calculator-app-2O2npA-ZAQ) 
+[Solution Link](https://www.frontendmentor.io/solutions/tip-calculator-app-2O2npA-ZAQ)
 
 #### 🚀 Live Demo
 
@@ -478,6 +573,12 @@ This small app is perfect for anyone starting to get to grips with JavaScript. T
 #### 👨‍💻 Source Code
 
 [GitHub Repository](https://github.com/younes-alhyan/tip-calculator-app)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### 🔥 Difficulty
 
@@ -499,7 +600,7 @@ The classic todo app with a few twists! This app includes a dark/light theme tog
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/todo-list-app-MDiJpj_4JG) 
+[Solution Link](https://www.frontendmentor.io/solutions/todo-list-app-MDiJpj_4JG)
 
 #### 🚀 Live Demo
 
@@ -509,9 +610,14 @@ The classic todo app with a few twists! This app includes a dark/light theme tog
 
 [GitHub Repository](https://github.com/younes-alhyan/todo-list-app)
 
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 #### 🔥 Difficulty
 
 ![INTERMEDIATE](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
 
 **Level:** 3 / 5
-
