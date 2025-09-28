@@ -1,8 +1,8 @@
-//config.js
 const path = require("path");
 
-const PROJECTS_DATA_FILE = path.resolve("../projects.json");
-const PROJECTS_FOLDER = path.resolve("../../");
+// __dirname = folder where this config.js lives
+const PROJECTS_DATA_FILE = path.resolve(__dirname, "../projects.json");
+const PROJECTS_FOLDER = path.resolve(__dirname, "../../");
 
 module.exports = {
   PROJECTS_DATA_FILE,
