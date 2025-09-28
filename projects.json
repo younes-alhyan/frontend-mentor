@@ -9,7 +9,12 @@
     "difficulty": 2,
     "description": "The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to generate random quotes of advice.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1645105188/Challenges/sfl8uqvq75wnnr559ksp.jpg",
-    "stack": ["HTML", "CSS", "JS", "API"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "API"
+    ]
   },
   {
     "name": "Blog Preview Card",
@@ -21,7 +26,10 @@
     "difficulty": 1,
     "description": "This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1703155602/Challenges/cmab9xsatnq8m04w5ikl.jpg",
-    "stack": ["HTML", "CSS"]
+    "stack": [
+      "HTML",
+      "CSS"
+    ]
   },
   {
     "name": "Calculator App",
@@ -33,7 +41,11 @@
     "difficulty": 3,
     "description": "This calculator app will be a great test of your CSS and JS skills especially. If you're wanting to practice using Grid, this challenge will be perfect for you!",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1652199546/Challenges/zjx3vvssz4f9zxr2djai.jpg",
-    "stack": ["HTML", "CSS", "JS"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ]
   },
   {
     "name": "Countries App",
@@ -45,7 +57,12 @@
     "difficulty": 4,
     "description": "If you're wanting to test your JavaScript skills this is the challenge for you. Use whichever JS framework you prefer and pull data from the REST Countries API.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554826345/Challenges/yhq5ihanseyinzwblaw1.jpg",
-    "stack": ["HTML", "CSS", "JS", "API"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "API"
+    ]
   },
   {
     "name": "Desserts Store",
@@ -57,7 +74,12 @@
     "difficulty": 2,
     "description": "A React project to practice building a small desserts store interface.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1720604598/Challenges/icnpqquxdp6kgnzm0vyp.jpg",
-    "stack": ["HTML", "CSS", "JS", "REACT"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "REACT"
+    ]
   },
   {
     "name": "E-Commerce Product Page",
@@ -69,7 +91,12 @@
     "difficulty": 3,
     "description": "In this challenge, you'll build a beautiful product page. We'll be putting your JS skills to the test with a lightbox product gallery and cart functionality!",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1715958959/Challenges/nnhmflkuam4gr1dnnddf.jpg",
-    "stack": ["HTML", "CSS", "JS", "REACT"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "REACT"
+    ]
   },
   {
     "name": "Expenses Chart Component",
@@ -81,7 +108,11 @@
     "difficulty": 2,
     "description": "In this challenge, you'll create a bar chart component from scratch. You can use a local JSON file to add the chart data dynamically.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1653056100/Challenges/xhxtaym7uzypzb37rpcc.jpg",
-    "stack": ["HTML", "CSS", "JS"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ]
   },
   {
     "name": "IP Address Tracker",
@@ -93,7 +124,13 @@
     "difficulty": 3,
     "description": "In this challenge, you'll be using two separate APIs together to create an IP Address Tracking app.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/ld4kxbjoxpqpjenak8w6.jpg",
-    "stack": ["HTML", "CSS", "JS", "API", "NODE"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "API",
+      "NODE"
+    ]
   },
   {
     "name": "Multi-Step Form",
@@ -105,7 +142,12 @@
     "difficulty": 4,
     "description": "An excellent test for your form-building and JS skills, this project will pose many challenges along the way to completion.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/vxqbpnpbamodg5ioplbj.jpg",
-    "stack": ["HTML", "CSS", "JS", "REACT"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "REACT"
+    ]
   },
   {
     "name": "Pricing Component",
@@ -117,7 +159,11 @@
     "difficulty": 2,
     "description": "This challenge will get you thinking about building an accessible custom toggle control and also test your layout skills.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1611325428/Challenges/fp0qtspesm6i0miyqncg.jpg",
-    "stack": ["HTML", "CSS", "JS"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ]
   },
   {
     "name": "Pricing Page",
@@ -129,7 +175,11 @@
     "difficulty": 2,
     "description": "In this project, you'll build out an interactive pricing component complete with custom range input slider and pricing toggle.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1575037683/Challenges/sjsrx7m77v6pxswdm0mx.jpg",
-    "stack": ["HTML", "CSS", "JS"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ]
   },
   {
     "name": "Rating Component",
@@ -141,7 +191,11 @@
     "difficulty": 1,
     "description": "This is a small project to practice handling user interactions and updating the DOM.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1715958936/Challenges/h3hhqtj4muiy84kkawhd.jpg",
-    "stack": ["HTML", "CSS", "JS"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ]
   },
   {
     "name": "Simple Form",
@@ -153,7 +207,11 @@
     "difficulty": 2,
     "description": "Building accessible forms is a crucial task for front-end developers. This challenge will help you practice building a form with several input types and validation.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1715865268/Challenges/jntqqksdinxs3qy8uyqb.jpg",
-    "stack": ["HTML", "CSS", "JS"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ]
   },
   {
     "name": "Simple Portfolio",
@@ -165,7 +223,10 @@
     "difficulty": 2,
     "description": "Your personal portfolio project to practice building clean HTML, CSS, and JS layouts.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1705487747/Challenges/cf3rlsqoovxlf7uajpva.jpg",
-    "stack": ["HTML", "CSS"]
+    "stack": [
+      "HTML",
+      "CSS"
+    ]
   },
   {
     "name": "Time Tracking App",
@@ -177,7 +238,11 @@
     "difficulty": 2,
     "description": "A perfect opportunity to practice your CSS Grid skills. For anyone wanting to take it up a notch, we provide a JSON data file to practice working with data.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1631270258/Challenges/j1ocp59n25odoftocgpi.jpg",
-    "stack": ["HTML", "CSS", "JS"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ]
   },
   {
     "name": "Tip Calculator App",
@@ -189,7 +254,11 @@
     "difficulty": 2,
     "description": "This small app is perfect for anyone starting to get to grips with JavaScript. The calculator functionality will be a nice test!",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1625752957/Challenges/hxkpctp6cd1meeytfdl2.jpg",
-    "stack": ["HTML", "CSS", "JS"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ]
   },
   {
     "name": "Todo List App",
@@ -201,6 +270,10 @@
     "difficulty": 3,
     "description": "The classic todo app with a few twists! This app includes a dark/light theme toggle and drag & drop reordering for anyone wanting an extra test.",
     "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1606413905/Challenges/ty4ppudcq94rtgj4rv6p.jpg",
-    "stack": ["HTML", "CSS", "JS"]
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS"
+    ]
   }
 ]
