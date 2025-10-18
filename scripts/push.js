@@ -4,7 +4,7 @@ const { exec } = require("child_process");
 const { PROJECTS_FOLDER } = require("./config");
 
 const README = "README.md";
-const commitMessage = "update README.md";
+const commitMessage = "docs: update README.md";
 
 function run(command, cwd) {
   return new Promise((resolve, reject) => {
