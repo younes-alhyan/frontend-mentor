@@ -198,6 +198,23 @@
     ]
   },
   {
+    "name": "Rock Paper Scissors Game",
+    "repoName": "rock-paper-scissors-game",
+    "challenge": "https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH",
+    "solution": "https://www.frontendmentor.io/solutions/rock-paper-scissors-game-mr2hLeYMJJ",
+    "source": "https://github.com/younes-alhyan/rock-paper-scissors-game",
+    "demo": "https://younes-alhyan.github.io/rock-paper-scissors-game/",
+    "difficulty": 4,
+    "description": "This challenge will test your HTML, CSS and JavaScript skills. There's even a Rock, Paper, Scissors, Lizard, Spock version if you really want to challenge yourself.",
+    "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/fnzuxyyl1wwyscqgaiyc.jpg",
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "REACT"
+    ]
+  },
+  {
     "name": "Simple Form",
     "repoName": "simple-form",
     "challenge": "https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj",
