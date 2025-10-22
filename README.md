@@ -5,29 +5,29 @@ This repository serves as an index to all my completed challenges with links to 
 
 ## 📂 Projects
 
-### 📝 Advice Generator
+### 📝 Countries App
 
-![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1645105188/Challenges/sfl8uqvq75wnnr559ksp.jpg)
+![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1554826345/Challenges/yhq5ihanseyinzwblaw1.jpg)
 
 #### 🌟 Description
 
-The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to generate random quotes of advice.
+If you're wanting to test your JavaScript skills this is the challenge for you. Use whichever JS framework you prefer and pull data from the REST Countries API.
 
 #### 🏆 Challenge
 
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/advices-generetor-app-using-apiadvices-slip-api-coEV1YQg1C)
+[Solution Link](https://www.frontendmentor.io/solutions/countries-app-T-xnbheQlz)
 
 #### 🚀 Live Demo
 
-[View Demo](https://younes-alhyan.github.io/advice-generator)
+[View Demo](https://younes-alhyan.github.io/countries-app)
 
 #### 👨‍💻 Source Code
 
-[GitHub Repository](https://github.com/younes-alhyan/advice-generator)
+[GitHub Repository](https://github.com/younes-alhyan/countries-app)
 
 #### 🛠️ Tech Stack
 
@@ -38,58 +38,105 @@ The perfect project if you're learning how to interact with 3rd-party APIs. This
 
 #### 🔥 Difficulty
 
-![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
+![ADVANCED](https://img.shields.io/badge/Difficulty-ADVANCED-orange)
 
 #### 🏅 Level
 
 <span>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 </span>
 
-### 📝 Blog Preview Card
+### 📝 Multi-Step Form
 
-![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1703155602/Challenges/cmab9xsatnq8m04w5ikl.jpg)
+![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/vxqbpnpbamodg5ioplbj.jpg)
 
 #### 🌟 Description
 
-This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.
+An excellent test for your form-building and JS skills, this project will pose many challenges along the way to completion.
 
 #### 🏆 Challenge
 
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/blog-preview-card-oJIayWFJAz)
+[Solution Link](https://www.frontendmentor.io/solutions/multistep-form-h5yneup1zc)
 
 #### 🚀 Live Demo
 
-[View Demo](https://younes-alhyan.github.io/blog-preview-card)
+[View Demo](https://younes-alhyan.github.io/multi-step-form)
 
 #### 👨‍💻 Source Code
 
-[GitHub Repository](https://github.com/younes-alhyan/blog-preview-card)
+[GitHub Repository](https://github.com/younes-alhyan/multi-step-form)
 
 #### 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### 🔥 Difficulty
 
-![NEWBIE](https://img.shields.io/badge/Difficulty-NEWBIE-blue)
+![ADVANCED](https://img.shields.io/badge/Difficulty-ADVANCED-orange)
 
 #### 🏅 Level
 
 <span>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Rock Paper Scissors Game
+
+![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/fnzuxyyl1wwyscqgaiyc.jpg)
+
+#### 🌟 Description
+
+This challenge will test your HTML, CSS and JavaScript skills. There's even a Rock, Paper, Scissors, Lizard, Spock version if you really want to challenge yourself.
+
+#### 🏆 Challenge
+
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
+
+#### 💡 Solution
+
+[Solution Link](https://www.frontendmentor.io/solutions/rock-paper-scissors-game-mr2hLeYMJJ)
+
+#### 🚀 Live Demo
+
+[View Demo](https://younes-alhyan.github.io/rock-paper-scissors-game/)
+
+#### 👨‍💻 Source Code
+
+[GitHub Repository](https://github.com/younes-alhyan/rock-paper-scissors-game)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### 🔥 Difficulty
+
+![ADVANCED](https://img.shields.io/badge/Difficulty-ADVANCED-orange)
+
+#### 🏅 Level
+
+<span>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 </span>
 
@@ -137,96 +184,6 @@ This calculator app will be a great test of your CSS and JS skills especially. I
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 </span>
 
-### 📝 Countries App
-
-![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1554826345/Challenges/yhq5ihanseyinzwblaw1.jpg)
-
-#### 🌟 Description
-
-If you're wanting to test your JavaScript skills this is the challenge for you. Use whichever JS framework you prefer and pull data from the REST Countries API.
-
-#### 🏆 Challenge
-
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
-
-#### 💡 Solution
-
-[Solution Link](https://www.frontendmentor.io/solutions/countries-app-T-xnbheQlz)
-
-#### 🚀 Live Demo
-
-[View Demo](https://younes-alhyan.github.io/countries-app)
-
-#### 👨‍💻 Source Code
-
-[GitHub Repository](https://github.com/younes-alhyan/countries-app)
-
-#### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### 🔥 Difficulty
-
-![ADVANCED](https://img.shields.io/badge/Difficulty-ADVANCED-orange)
-
-#### 🏅 Level
-
-<span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-</span>
-
-### 📝 Desserts Store
-
-![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1720604598/Challenges/icnpqquxdp6kgnzm0vyp.jpg)
-
-#### 🌟 Description
-
-A React project to practice building a small desserts store interface.
-
-#### 🏆 Challenge
-
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/desserts-store)
-
-#### 💡 Solution
-
-[Solution Link](https://www.frontendmentor.io/solutions/desserts-store-using-react-SAhKHG9HGE)
-
-#### 🚀 Live Demo
-
-[View Demo](https://younes-alhyan.github.io/desserts-store)
-
-#### 👨‍💻 Source Code
-
-[GitHub Repository](https://github.com/younes-alhyan/desserts-store)
-
-#### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-#### 🔥 Difficulty
-
-![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
-
-#### 🏅 Level
-
-<span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-</span>
-
 ### 📝 E-Commerce Product Page
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1715958959/Challenges/nnhmflkuam4gr1dnnddf.jpg)
@@ -268,50 +225,6 @@ In this challenge, you'll build a beautiful product page. We'll be putting your 
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-</span>
-
-### 📝 Expenses Chart Component
-
-![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1653056100/Challenges/xhxtaym7uzypzb37rpcc.jpg)
-
-#### 🌟 Description
-
-In this challenge, you'll create a bar chart component from scratch. You can use a local JSON file to add the chart data dynamically.
-
-#### 🏆 Challenge
-
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt)
-
-#### 💡 Solution
-
-[Solution Link](https://www.frontendmentor.io/solutions/expenses-chart-component-6sWno5Y9SX)
-
-#### 🚀 Live Demo
-
-[View Demo](https://younes-alhyan.github.io/expenses-chart-component)
-
-#### 👨‍💻 Source Code
-
-[GitHub Repository](https://github.com/younes-alhyan/expenses-chart-component)
-
-#### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🔥 Difficulty
-
-![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
-
-#### 🏅 Level
-
-<span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 </span>
@@ -362,29 +275,118 @@ In this challenge, you'll be using two separate APIs together to create an IP Ad
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 </span>
 
-### 📝 Multi-Step Form
+### 📝 Todo List App
 
-![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/vxqbpnpbamodg5ioplbj.jpg)
+![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1606413905/Challenges/ty4ppudcq94rtgj4rv6p.jpg)
 
 #### 🌟 Description
 
-An excellent test for your form-building and JS skills, this project will pose many challenges along the way to completion.
+The classic todo app with a few twists! This app includes a dark/light theme toggle and drag & drop reordering for anyone wanting an extra test.
 
 #### 🏆 Challenge
 
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ)
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW)
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/multistep-form-h5yneup1zc)
+[Solution Link](https://www.frontendmentor.io/solutions/todo-list-app-MDiJpj_4JG)
 
 #### 🚀 Live Demo
 
-[View Demo](https://younes-alhyan.github.io/multi-step-form)
+[View Demo](https://younes-alhyan.github.io/todo-list-app)
 
 #### 👨‍💻 Source Code
 
-[GitHub Repository](https://github.com/younes-alhyan/multi-step-form)
+[GitHub Repository](https://github.com/younes-alhyan/todo-list-app)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🔥 Difficulty
+
+![INTERMEDIATE](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
+
+#### 🏅 Level
+
+<span>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Advice Generator
+
+![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1645105188/Challenges/sfl8uqvq75wnnr559ksp.jpg)
+
+#### 🌟 Description
+
+The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to generate random quotes of advice.
+
+#### 🏆 Challenge
+
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
+
+#### 💡 Solution
+
+[Solution Link](https://www.frontendmentor.io/solutions/advices-generetor-app-using-apiadvices-slip-api-coEV1YQg1C)
+
+#### 🚀 Live Demo
+
+[View Demo](https://younes-alhyan.github.io/advice-generator)
+
+#### 👨‍💻 Source Code
+
+[GitHub Repository](https://github.com/younes-alhyan/advice-generator)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### 🔥 Difficulty
+
+![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
+
+#### 🏅 Level
+
+<span>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Desserts Store
+
+![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1720604598/Challenges/icnpqquxdp6kgnzm0vyp.jpg)
+
+#### 🌟 Description
+
+A React project to practice building a small desserts store interface.
+
+#### 🏆 Challenge
+
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/desserts-store)
+
+#### 💡 Solution
+
+[Solution Link](https://www.frontendmentor.io/solutions/desserts-store-using-react-SAhKHG9HGE)
+
+#### 🚀 Live Demo
+
+[View Demo](https://younes-alhyan.github.io/desserts-store)
+
+#### 👨‍💻 Source Code
+
+[GitHub Repository](https://github.com/younes-alhyan/desserts-store)
 
 #### 🛠️ Tech Stack
 
@@ -395,15 +397,59 @@ An excellent test for your form-building and JS skills, this project will pose m
 
 #### 🔥 Difficulty
 
-![ADVANCED](https://img.shields.io/badge/Difficulty-ADVANCED-orange)
+![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
 
 #### 🏅 Level
 
 <span>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Expenses Chart Component
+
+![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1653056100/Challenges/xhxtaym7uzypzb37rpcc.jpg)
+
+#### 🌟 Description
+
+In this challenge, you'll create a bar chart component from scratch. You can use a local JSON file to add the chart data dynamically.
+
+#### 🏆 Challenge
+
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt)
+
+#### 💡 Solution
+
+[Solution Link](https://www.frontendmentor.io/solutions/expenses-chart-component-6sWno5Y9SX)
+
+#### 🚀 Live Demo
+
+[View Demo](https://younes-alhyan.github.io/expenses-chart-component)
+
+#### 👨‍💻 Source Code
+
+[GitHub Repository](https://github.com/younes-alhyan/expenses-chart-component)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🔥 Difficulty
+
+![JUNIOR](https://img.shields.io/badge/Difficulty-JUNIOR-green)
+
+#### 🏅 Level
+
+<span>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 </span>
 
@@ -492,95 +538,6 @@ In this project, you'll build out an interactive pricing component complete with
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-</span>
-
-### 📝 Rating Component
-
-![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1715958936/Challenges/h3hhqtj4muiy84kkawhd.jpg)
-
-#### 🌟 Description
-
-This is a small project to practice handling user interactions and updating the DOM.
-
-#### 🏆 Challenge
-
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
-
-#### 💡 Solution
-
-[Solution Link](https://www.frontendmentor.io/solutions/simple-rating-component-iS1yWJCyE0)
-
-#### 🚀 Live Demo
-
-[View Demo](https://younes-alhyan.github.io/rating-component)
-
-#### 👨‍💻 Source Code
-
-[GitHub Repository](https://github.com/younes-alhyan/rating-component)
-
-#### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🔥 Difficulty
-
-![NEWBIE](https://img.shields.io/badge/Difficulty-NEWBIE-blue)
-
-#### 🏅 Level
-
-<span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-</span>
-
-### 📝 Rock Paper Scissors Game
-
-![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/fnzuxyyl1wwyscqgaiyc.jpg)
-
-#### 🌟 Description
-
-This challenge will test your HTML, CSS and JavaScript skills. There's even a Rock, Paper, Scissors, Lizard, Spock version if you really want to challenge yourself.
-
-#### 🏆 Challenge
-
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
-
-#### 💡 Solution
-
-[Solution Link](https://www.frontendmentor.io/solutions/rock-paper-scissors-game-mr2hLeYMJJ)
-
-#### 🚀 Live Demo
-
-[View Demo](https://younes-alhyan.github.io/rock-paper-scissors-game/)
-
-#### 👨‍💻 Source Code
-
-[GitHub Repository](https://github.com/younes-alhyan/rock-paper-scissors-game)
-
-#### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-#### 🔥 Difficulty
-
-![ADVANCED](https://img.shields.io/badge/Difficulty-ADVANCED-orange)
-
-#### 🏅 Level
-
-<span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 </span>
 
@@ -759,29 +716,72 @@ This small app is perfect for anyone starting to get to grips with JavaScript. T
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 </span>
 
-### 📝 Todo List App
+### 📝 Blog Preview Card
 
-![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1606413905/Challenges/ty4ppudcq94rtgj4rv6p.jpg)
+![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1703155602/Challenges/cmab9xsatnq8m04w5ikl.jpg)
 
 #### 🌟 Description
 
-The classic todo app with a few twists! This app includes a dark/light theme toggle and drag & drop reordering for anyone wanting an extra test.
+This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.
 
 #### 🏆 Challenge
 
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW)
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 #### 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/todo-list-app-MDiJpj_4JG)
+[Solution Link](https://www.frontendmentor.io/solutions/blog-preview-card-oJIayWFJAz)
 
 #### 🚀 Live Demo
 
-[View Demo](https://younes-alhyan.github.io/todo-list-app)
+[View Demo](https://younes-alhyan.github.io/blog-preview-card)
 
 #### 👨‍💻 Source Code
 
-[GitHub Repository](https://github.com/younes-alhyan/todo-list-app)
+[GitHub Repository](https://github.com/younes-alhyan/blog-preview-card)
+
+#### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+#### 🔥 Difficulty
+
+![NEWBIE](https://img.shields.io/badge/Difficulty-NEWBIE-blue)
+
+#### 🏅 Level
+
+<span>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+</span>
+
+### 📝 Rating Component
+
+![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1715958936/Challenges/h3hhqtj4muiy84kkawhd.jpg)
+
+#### 🌟 Description
+
+This is a small project to practice handling user interactions and updating the DOM.
+
+#### 🏆 Challenge
+
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+
+#### 💡 Solution
+
+[Solution Link](https://www.frontendmentor.io/solutions/simple-rating-component-iS1yWJCyE0)
+
+#### 🚀 Live Demo
+
+[View Demo](https://younes-alhyan.github.io/rating-component)
+
+#### 👨‍💻 Source Code
+
+[GitHub Repository](https://github.com/younes-alhyan/rating-component)
 
 #### 🛠️ Tech Stack
 
@@ -791,14 +791,14 @@ The classic todo app with a few twists! This app includes a dark/light theme tog
 
 #### 🔥 Difficulty
 
-![INTERMEDIATE](https://img.shields.io/badge/Difficulty-INTERMEDIATE-yellow)
+![NEWBIE](https://img.shields.io/badge/Difficulty-NEWBIE-blue)
 
 #### 🏅 Level
 
 <span>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 <img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
 </span>

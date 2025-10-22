@@ -38,9 +38,7 @@ function getInput(query) {
 
 // Update projects.json
 async function updateProjectsFile() {
-  const sorted = [...projects].sort((a, b) =>
-    a.repoName.localeCompare(b.repoName)
-  );
+  const sorted = [...projects].sort((a, b) => a.difficulty - b.difficulty);
   await fs.promises.writeFile(
     PROJECTS_DATA_FILE,
     JSON.stringify(sorted, null, 2),
@@ -59,17 +57,21 @@ async function getProjectData(existingProject = {}) {
   const challenge =
     (await getInput(
       `Enter challenge URL [${existingProject.challenge || ""}]: `
-    )) || existingProject.challenge ||
+    )) ||
+    existingProject.challenge ||
     "";
 
   const solution =
     (await getInput(
       `Enter solution URL [${existingProject.solution || ""}]: `
-    )) || existingProject.solution ||
+    )) ||
+    existingProject.solution ||
     "";
 
   const source =
-    (await getInput(`Enter source code URL [${existingProject.source || ""}]: `)) ||
+    (await getInput(
+      `Enter source code URL [${existingProject.source || ""}]: `
+    )) ||
     existingProject.source ||
     "";
 
@@ -91,13 +93,15 @@ async function getProjectData(existingProject = {}) {
   const description =
     (await getInput(
       `Enter project description [${existingProject.description || ""}]: `
-    )) || existingProject.description ||
+    )) ||
+    existingProject.description ||
     "";
 
   const heroImage =
     (await getInput(
       `Enter hero image URL [${existingProject.heroImage || ""}]: `
-    )) || existingProject.heroImage ||
+    )) ||
+    existingProject.heroImage ||
     "";
 
   const stackInput =
@@ -105,11 +109,10 @@ async function getProjectData(existingProject = {}) {
       `Enter tech stack (comma separated) [${(existingProject.stack || []).join(
         ", "
       )}]: `
-    )) || existingProject.stack?.join(", ") ||
+    )) ||
+    existingProject.stack?.join(", ") ||
     "";
-  const stack = stackInput
-    ? stackInput.split(",").map((s) => s.trim())
-    : [];
+  const stack = stackInput ? stackInput.split(",").map((s) => s.trim()) : [];
 
   return {
     name,
