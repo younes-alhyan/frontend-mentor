@@ -43,11 +43,21 @@ If you're wanting to test your JavaScript skills this is the challenge for you. 
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Multi-Step Form
@@ -88,11 +98,21 @@ An excellent test for your form-building and JS skills, this project will pose m
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Rock Paper Scissors Game
@@ -133,11 +153,21 @@ This challenge will test your HTML, CSS and JavaScript skills. There's even a Ro
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Calculator App
@@ -177,11 +207,21 @@ This calculator app will be a great test of your CSS and JS skills especially. I
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 E-Commerce Product Page
@@ -222,11 +262,21 @@ In this challenge, you'll build a beautiful product page. We'll be putting your 
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 IP Address Tracker
@@ -268,11 +318,21 @@ In this challenge, you'll be using two separate APIs together to create an IP Ad
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Todo List App
@@ -312,11 +372,21 @@ The classic todo app with a few twists! This app includes a dark/light theme tog
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Advice Generator
@@ -357,11 +427,21 @@ The perfect project if you're learning how to interact with 3rd-party APIs. This
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Desserts Store
@@ -402,11 +482,21 @@ A React project to practice building a small desserts store interface.
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Expenses Chart Component
@@ -446,11 +536,21 @@ In this challenge, you'll create a bar chart component from scratch. You can use
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Pricing Component
@@ -490,11 +590,21 @@ This challenge will get you thinking about building an accessible custom toggle 
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Pricing Page
@@ -534,11 +644,21 @@ In this project, you'll build out an interactive pricing component complete with
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Simple Form
@@ -578,11 +698,21 @@ Building accessible forms is a crucial task for front-end developers. This chall
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Simple Portfolio
@@ -621,11 +751,21 @@ Your personal portfolio project to practice building clean HTML, CSS, and JS lay
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Time Tracking App
@@ -665,11 +805,21 @@ A perfect opportunity to practice your CSS Grid skills. For anyone wanting to ta
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Tip Calculator App
@@ -709,11 +859,21 @@ This small app is perfect for anyone starting to get to grips with JavaScript. T
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Blog Preview Card
@@ -752,11 +912,21 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
 ### 📝 Rating Component
@@ -796,10 +966,20 @@ This is a small project to practice handling user interactions and updating the 
 #### 🏅 Level
 
 <span>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
-<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>
 </span>
 
