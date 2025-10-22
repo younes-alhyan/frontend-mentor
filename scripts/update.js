@@ -46,10 +46,14 @@ const skillBadges = (skills) => {
 const levelBadges = (level) => {
   let string = "<span>\n";
   for (let i = 0; i < level; i++) {
-    string += `<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=red&color=0D1117" alt="GitHub" width="100"></img>\n`;
+    string += `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>\n`;
   }
   for (let i = level; i < 5; i++) {
-    string += `<img src="https://img.shields.io/badge/-a?style=flat-square&logo=sparkpost&logoColor=grey&color=0D1117" alt="GitHub" width="100"></img>\n`;
+    string += `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
+  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
+</svg>\n`;
   }
   string += "</span>\n";
   return string;
