@@ -46,10 +46,10 @@ const skillBadges = (skills) => {
 const levelBadges = (level) => {
   let string = "";
   for (let i = 0; i < level; i++) {
-    string += `![gold star](./assets/star-filled.svg)\n`;
+    string += `![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)\n`;
   }
   for (let i = level; i < 5; i++) {
-    string += `![empty star](./assets/star-outline.svg)\n`;
+    string += `![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)\n`;
   }
   return string;
 };
