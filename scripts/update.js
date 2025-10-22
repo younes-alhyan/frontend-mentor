@@ -44,18 +44,13 @@ const skillBadges = (skills) => {
   return `${string}\n`;
 };
 const levelBadges = (level) => {
-  let string = "<span>\n";
+  let string = "";
   for (let i = 0; i < level; i++) {
-    string += `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="gold">
-  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
-</svg>\n`;
+    string += `![gold star](./assets/star-filled.svg)\n`;
   }
   for (let i = level; i < 5; i++) {
-    string += `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100" height="100" fill="none" stroke="gold" stroke-width="1" stroke-linecap="round" stroke-linejoin="miter">
-  <polygon points="12 2 15 9 22 9 17 14 18.5 21 12 17 5.5 21 7 14 2 9 9 9"/>
-</svg>\n`;
+    string += `![empty star](./assets/star-outline.svg)\n`;
   }
-  string += "</span>\n";
   return string;
 };
 // Link Item
