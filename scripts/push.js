@@ -10,7 +10,7 @@ function run(command, cwd) {
   return new Promise((resolve, reject) => {
     exec(command, { cwd }, (err, stdout, stderr) => {
       if (err) return reject(err);
-      if (stderr) return reject(new Error(stderr));
+      if (stderr) console.log(stderr);
       resolve(stdout);
     });
   });
