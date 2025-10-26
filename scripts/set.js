@@ -38,7 +38,7 @@ function getInput(query) {
 
 // Update projects.json
 async function updateProjectsFile() {
-  const sorted = [...projects].sort((a, b) => a.difficulty - b.difficulty);
+  const sorted = [...projects].sort((a, b) => b.difficulty - a.difficulty);
   await fs.promises.writeFile(
     PROJECTS_DATA_FILE,
     JSON.stringify(sorted, null, 2),
