@@ -118,6 +118,23 @@
     ]
   },
   {
+    "name": "Space Tourism Multi Page Website",
+    "repoName": "space-tourism-multi-page-website",
+    "challenge": "https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3",
+    "solution": "https://www.frontendmentor.io/solutions/space-tourism-multi-page-website-rA1b0Thl8B",
+    "source": "https://github.com/younes-alhyan/space-tourism-multi-page-website",
+    "demo": "https://younes-alhyan.github.io/space-tourism-multi-page-website/",
+    "difficulty": 3,
+    "description": "This project is a fun collaboration with Scrimba and Kevin Powell! If you like, you can follow along and watch Kevin complete the project on Scrimba. Lots to learn!",
+    "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/x8skdsukkmwiwxejthio.jpg",
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "REACT"
+    ]
+  },
+  {
     "name": "Advice Generator",
     "repoName": "advice-generator",
     "challenge": "https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db",
