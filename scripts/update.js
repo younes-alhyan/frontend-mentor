@@ -20,6 +20,9 @@ const skillsMap = {
   REACT:
     "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black",
   NODE: "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white",
+  TS: "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white",
+  TAILWIND:
+    "https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white",
 };
 // Badges
 const difficultyBadge = (difficulty) => {
@@ -31,15 +34,7 @@ const skillBadges = (skills) => {
   for (const skill of skills) {
     if (!skillsMap[skill]) continue;
 
-    const text =
-      skill === "JS"
-        ? "JavaScript"
-        : skill === "REACT"
-        ? "React"
-        : skill === "NODE"
-        ? "Node.js"
-        : skill;
-    string += `![${text}](${skillsMap[skill]})\n`;
+    string += `![${skill}](${skillsMap[skill]})\n`;
   }
   return `${string}\n`;
 };
