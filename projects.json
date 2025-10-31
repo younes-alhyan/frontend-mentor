@@ -139,6 +139,26 @@
     ]
   },
   {
+    "name": "Weather App",
+    "repoName": "weather-app",
+    "challenge": "https://www.frontendmentor.io/challenges/weather-app-K1FhddVm49",
+    "solution": "https://www.frontendmentor.io/solutions/weather-app-NCN2eQG7kb",
+    "source": "https://github.com/younes-alhyan/weather-app",
+    "demo": "https://younes-alhyan.github.io/weather-app/",
+    "difficulty": 3,
+    "description": "Build a responsive weather app with search functionality, unit conversion, and detailed forecasts using the Open-Meteo API.",
+    "heroImage": "https://res.cloudinary.com/dz209s6jk/image/upload/Challenges/go73d9rjvzc8fsw13hy8.jpg",
+    "stack": [
+      "HTML",
+      "CSS",
+      "JS",
+      "API",
+      "REACT",
+      "TS",
+      "TAILWIND"
+    ]
+  },
+  {
     "name": "Advice Generator",
     "repoName": "advice-generator",
     "challenge": "https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db",
